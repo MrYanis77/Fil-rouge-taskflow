@@ -4016,3 +4016,5 @@ AssertionError: Class TaskSerializer missing "Meta" attribute
 2025-12-01 09:50:39,576 | INFO |  "GET /api/tasks/ HTTP/1.1" 200 1821
 2025-12-01 09:58:17,237 | INFO |  Watching for file changes with StatReloader
 2025-12-01 09:58:22,718 | INFO |  "GET /api/tasks/ HTTP/1.1" 200 1821
+2025-12-01 11:50:42,424 | INFO |  Watching for file changes with StatReloader
+2025-12-01 11:50:45,733 | INFO |  "GET /api/tasks/ HTTP/1.1" 200 1821
